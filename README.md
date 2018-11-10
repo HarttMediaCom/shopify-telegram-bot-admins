@@ -2,7 +2,7 @@
 
 [![License MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](LICENSE)
 
-<img src="telegrambot.gif" width="400">
+<img src="telegrambot.gif" width="800">
 
 ## Setup
 
